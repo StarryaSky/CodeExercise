@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCodeStudy", "CleanCodeStudy\CleanCodeStudy.csproj", "{A5D5D67E-76B0-413E-985E-BEE67A359603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCleanCode", "UnitTestCleanCode\UnitTestCleanCode.csproj", "{F8145312-AD51-4B1B-AD9E-21ACF6D634DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8DB60EF7-498E-4704-9AE5-0AE45FAB58D1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D5D67E-76B0-413E-985E-BEE67A359603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D5D67E-76B0-413E-985E-BEE67A359603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D5D67E-76B0-413E-985E-BEE67A359603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D5D67E-76B0-413E-985E-BEE67A359603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8145312-AD51-4B1B-AD9E-21ACF6D634DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8145312-AD51-4B1B-AD9E-21ACF6D634DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8145312-AD51-4B1B-AD9E-21ACF6D634DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8145312-AD51-4B1B-AD9E-21ACF6D634DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
