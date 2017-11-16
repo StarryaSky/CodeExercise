@@ -50,9 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="TrowTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="FramTest.cs" />
     <Compile Include="GameTest.cs" />
   </ItemGroup>
   <ItemGroup>
